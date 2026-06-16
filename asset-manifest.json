@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/student-management/static/css/main.e16eb62c.css",
+    "main.js": "/github.io/student-management/static/js/main.743a5a87.js",
+    "index.html": "/github.io/student-management/index.html",
+    "main.e16eb62c.css.map": "/github.io/student-management/static/css/main.e16eb62c.css.map",
+    "main.743a5a87.js.map": "/github.io/student-management/static/js/main.743a5a87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16eb62c.css",
+    "static/js/main.743a5a87.js"
+  ]
+}
